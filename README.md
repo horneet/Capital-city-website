@@ -1,13 +1,10 @@
-Capital-city-website
-====================
-
 <!doctype html>
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Foundation Template | Banner</title>
+    <title>CAPITAL CITY SERVICES</title>
 
     
     <meta name="description" content="Documentation and reference library for ZURB Foundation. JavaScript, CSS, components, grid and more." />
@@ -25,17 +22,16 @@ Capital-city-website
   <div class="row">
     <div class="large-12 columns">
       <ul class="button-group">
-        <li><a href="#" class="button">Link 1</a></li>
-        <li><a href="#" class="button">Link 2</a></li>
-        <li><a href="#" class="button">Link 3</a></li>
-        <li><a href="#" class="button">Link 4</a></li>
-        <li><a href="#" class="button">Link 5</a></li>
-        <li><a href="#" class="button">Link 6</a></li>
-        <li><a href="#" class="button">Link 7</a></li>
+        <li><a href="#" class="button">Services</a></li>
+        <li><a href="#" class="button">About Us</a></li>
+        <li><a href="#" class="button">HVAC/Mechanical</a></li>
+        <li><a href="#" class="button">Electric</a></li>
+        <li><a href="#" class="button">Service Request</a></li>
+        <li><a href="#" class="button">Contact Us</a></li>
       </ul>
       
       <!-- Main Banner Image - place in a paragraph to enforce the modular scale spacing -->
-      <p><img src="http://placehold.it/1000x400&text=[banner img]" /></p>
+      <p><img src="" /></p>
     </div>
   </div>
   
@@ -47,9 +43,9 @@ Capital-city-website
   <div class="row">
   
     <div class="large-8 columns">
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <h4>Who We Are</h4>
+      <p>Capital City Electrical Services, Inc. has built a successful business doing one thing really, really well - large scale commercial electrical projects, service, and maintenance in and around Atlanta, Georgia.</p>
+      <p></p>
       <p><a href="#" class="secondary small button">Next Page &rarr;</a></p>
     </div>
     
@@ -58,8 +54,8 @@ Capital-city-website
       <!-- Gallery sidebar with a block grid. Note: block grid items should be the same size for optimal results -->
       
       <ul class="small-block-grid-3">
-        <li><a href="#"><img src="http://placehold.it/120x120" /></a></li>
-        <li><a href="#"><img src="http://placehold.it/120x120" /></a></li>
+        <li><a href="#"><img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-prn2/t1/1525755_519501618164433_212415626_n.jpg" /></a></li>
+        <li><a href="#"><img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-prn2/t1/1622223_525985527516042_1243860392_n.jpg" /></a></li>
         <li><a href="#"><img src="http://placehold.it/120x120" /></a></li>
         <li><a href="#"><img src="http://placehold.it/120x120" /></a></li>
         <li><a href="#"><img src="http://placehold.it/120x120" /></a></li>
@@ -79,7 +75,7 @@ Capital-city-website
             
         <div class="row">
           <div class="large-9 columns">
-            <p>We'd love to hear from you, you attractive person you.</p>
+            <p>We'd love to hear from you,</p>
           </div>
           <div class="large-3 columns">
             <a href="#" class="radius button right">Contact Us</a>
